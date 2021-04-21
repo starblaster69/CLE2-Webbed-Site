@@ -1,0 +1,57 @@
+body {
+    background-color:  #e2f7f8
+}
+
+p {
+    font-size: larger;
+}
+
+a {
+    /*color: #e2f7f8;*/
+    color: #7c7c7c;
+    padding: 15px;
+}
+
+h1 {
+
+}
+
+.companyName {
+    padding-left: 20px;
+    color: #88dbdb;
+    background-color: #1d4b8f;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+.login {
+    position: absolute;
+    right: 10px;
+}
+
+nav {
+    background-color: #1a1a1a;
+    position: absolute;
+    right: 0;
+    left: 0;
+    max-width: 1280px;
+    text-align:  center;
+    align-content: center;
+}
+
+.about {
+    padding-top: 30px;
+}
+
+label {
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+}
+
+img {
+    max-width: 300px;
+}
